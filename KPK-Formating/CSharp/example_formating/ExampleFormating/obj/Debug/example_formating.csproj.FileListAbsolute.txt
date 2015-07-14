@@ -1,0 +1,8 @@
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\bin\Debug\example_formating.exe.config
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\obj\Debug\example_formating.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\bin\Debug\example_formating.exe
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\bin\Debug\example_formating.pdb
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\bin\Debug\PowerCollections.dll
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\bin\Debug\PowerCollections.xml
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\obj\Debug\example_formating.exe
+D:\TELERIK\KPK\CSharp\example_formating\example_formating\obj\Debug\example_formating.pdb

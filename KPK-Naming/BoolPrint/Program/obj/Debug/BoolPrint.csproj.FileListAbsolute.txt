@@ -1,0 +1,14 @@
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Program\Program\bin\Debug\Program.exe.config
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Program\Program\bin\Debug\Program.exe
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Program\Program\bin\Debug\Program.pdb
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Program\Program\obj\Debug\Program.exe
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Program\Program\obj\Debug\Program.pdb
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\BoolPrint\Program\bin\Debug\BoolPrint.exe.config
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\BoolPrint\Program\bin\Debug\BoolPrint.exe
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\BoolPrint\Program\bin\Debug\BoolPrint.pdb
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\BoolPrint\Program\obj\Debug\BoolPrint.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\BoolPrint\Program\obj\Debug\BoolPrint.exe
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\BoolPrint\Program\obj\Debug\BoolPrint.pdb
+D:\TELERIK\KPK\CSharp\KPK-Naming\BoolPrint\Program\bin\Debug\BoolPrint.exe.config
+D:\TELERIK\KPK\CSharp\KPK-Naming\BoolPrint\Program\obj\Debug\BoolPrint.exe
+D:\TELERIK\KPK\CSharp\KPK-Naming\BoolPrint\Program\obj\Debug\BoolPrint.pdb

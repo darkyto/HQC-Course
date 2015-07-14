@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorLoop\RefactorLoop\bin\Debug\RefactorLoop.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorLoop\RefactorLoop\obj\Debug\RefactorLoop.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorLoop\RefactorLoop\obj\Debug\RefactorLoop.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorLoop\RefactorLoop\bin\Debug\RefactorLoop.exe
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorLoop\RefactorLoop\obj\Debug\RefactorLoop.exe

@@ -1,0 +1,7 @@
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\obj\Debug\RefactorIfStatements.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\bin\Debug\RefactorIfStatements.dll
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\bin\Debug\RefactorIfStatements.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\bin\Debug\ClassChef.dll
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\bin\Debug\ClassChef.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\obj\Debug\RefactorIfStatements.dll
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\RefactorIfStatements\RefactorIfStatements\obj\Debug\RefactorIfStatements.pdb

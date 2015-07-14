@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\DecodingTaskRefactorCSharpExam\DecodingTaskRefactorCSharpExam\bin\Debug\DecodingTaskRefactorCSharpExam.exe.config
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\DecodingTaskRefactorCSharpExam\DecodingTaskRefactorCSharpExam\bin\Debug\DecodingTaskRefactorCSharpExam.exe
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\DecodingTaskRefactorCSharpExam\DecodingTaskRefactorCSharpExam\bin\Debug\DecodingTaskRefactorCSharpExam.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\DecodingTaskRefactorCSharpExam\DecodingTaskRefactorCSharpExam\obj\Debug\DecodingTaskRefactorCSharpExam.exe
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\DecodingTaskRefactorCSharpExam\DecodingTaskRefactorCSharpExam\obj\Debug\DecodingTaskRefactorCSharpExam.pdb

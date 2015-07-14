@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ThreeNumbersRefactorExamCSharp\ThreeNumbersRefactorExamCSharp\bin\Debug\ThreeNumbersRefactorExamCSharp.exe.config
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ThreeNumbersRefactorExamCSharp\ThreeNumbersRefactorExamCSharp\bin\Debug\ThreeNumbersRefactorExamCSharp.exe
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ThreeNumbersRefactorExamCSharp\ThreeNumbersRefactorExamCSharp\bin\Debug\ThreeNumbersRefactorExamCSharp.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ThreeNumbersRefactorExamCSharp\ThreeNumbersRefactorExamCSharp\obj\Debug\ThreeNumbersRefactorExamCSharp.exe
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ThreeNumbersRefactorExamCSharp\ThreeNumbersRefactorExamCSharp\obj\Debug\ThreeNumbersRefactorExamCSharp.pdb

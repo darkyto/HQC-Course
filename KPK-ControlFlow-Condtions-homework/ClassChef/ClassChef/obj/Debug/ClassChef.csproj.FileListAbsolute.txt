@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ClassChef\ClassChef\bin\Debug\ClassChef.dll
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ClassChef\ClassChef\bin\Debug\ClassChef.pdb
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ClassChef\ClassChef\obj\Debug\ClassChef.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ClassChef\ClassChef\obj\Debug\ClassChef.dll
+D:\TELERIK\KPK\CSharp\KPK-ControlFlow-Condtions-homework\ClassChef\ClassChef\obj\Debug\ClassChef.pdb

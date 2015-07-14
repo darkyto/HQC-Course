@@ -1,0 +1,12 @@
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\PrintStatisticsTask\bin\Debug\PrintStatisticsTask.exe.config
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\PrintStatisticsTask\bin\Debug\PrintStatisticsTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\PrintStatisticsTask\bin\Debug\PrintStatisticsTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\PrintStatisticsTask\obj\Debug\PrintStatisticsTask.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\PrintStatisticsTask\obj\Debug\PrintStatisticsTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\PrintStatisticsTask\obj\Debug\PrintStatisticsTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\PrintStatisticsTask\bin\Debug\PrintStatisticsTask.exe.config
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\PrintStatisticsTask\obj\Debug\PrintStatisticsTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\PrintStatisticsTask\obj\Debug\PrintStatisticsTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\PrintStatisticsTask\bin\Debug\PrintStatisticsTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\PrintStatisticsTask\bin\Debug\PrintStatisticsTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\PrintStatisticsTask\obj\Debug\PrintStatisticsTask.csprojResolveAssemblyReference.cache

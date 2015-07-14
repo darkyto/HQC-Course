@@ -1,0 +1,12 @@
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\ClassSizeTask\bin\Debug\ClassSizeTask.exe.config
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\ClassSizeTask\obj\Debug\ClassSizeTask.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\ClassSizeTask\bin\Debug\ClassSizeTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\ClassSizeTask\bin\Debug\ClassSizeTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\ClassSizeTask\obj\Debug\ClassSizeTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\ClassSizeTask\obj\Debug\ClassSizeTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\bin\Debug\ClassSizeTask.exe.config
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\obj\Debug\ClassSizeTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\obj\Debug\ClassSizeTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\bin\Debug\ClassSizeTask.exe
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\bin\Debug\ClassSizeTask.pdb
+D:\TELERIK\KPK\CSharp\KPK-VariablesDataExpressions-homework\ClassSizeTask\obj\Debug\ClassSizeTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Refactoring\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Refactoring\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Refactoring\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Refactoring\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Refactoring\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\TELERIK\KPK\CSharp\KPK_homework_naming\Refactoring\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
