@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\CSharp\HQC-Unit-Testing\SchoolApp\SchoolApp\bin\Debug\SchoolApp.exe.config
+D:\TELERIK\KPK\CSharp\HQC-Unit-Testing\SchoolApp\SchoolApp\obj\Debug\SchoolApp.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\HQC-Unit-Testing\SchoolApp\SchoolApp\bin\Debug\SchoolApp.exe
+D:\TELERIK\KPK\CSharp\HQC-Unit-Testing\SchoolApp\SchoolApp\bin\Debug\SchoolApp.pdb
+D:\TELERIK\KPK\CSharp\HQC-Unit-Testing\SchoolApp\SchoolApp\obj\Debug\SchoolApp.exe
+D:\TELERIK\KPK\CSharp\HQC-Unit-Testing\SchoolApp\SchoolApp\obj\Debug\SchoolApp.pdb
