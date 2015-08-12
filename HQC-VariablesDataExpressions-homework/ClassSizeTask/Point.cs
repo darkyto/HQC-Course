@@ -19,17 +19,20 @@
             {
                 return this.x;
             }
+
             private set
             {
                 this.x = value;
             }
         }
+
         public double YCoord
         {
             get
             {
                 return this.y;
             }
+
             private set
             {
                 this.y = value;
@@ -52,6 +55,7 @@
 
             return new Point(newXCoord, newYCoord);
         }
+
         /// <summary>
         /// Method to rotate a point through angle around another point in Cartesian system
         /// </summary>
@@ -76,9 +80,10 @@
             Point result = new Point(newXCoord, newYCoord);
             return result;
         }
+
         public override string ToString()
         {
-            return "Point Coordinates \nX Coordinate: "+this.XCoord+"\nY Coordinate: "+this.YCoord+"\n";
+            return "Point Coordinates \nX Coordinate: " + this.XCoord + "\nY Coordinate: " + this.YCoord + "\n";
         }
     }
 }
