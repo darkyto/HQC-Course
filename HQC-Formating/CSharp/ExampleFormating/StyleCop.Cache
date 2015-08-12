@@ -515,10 +515,13 @@
   <project key="237919821">
     <configuration>DEBUG;TRACE</configuration>
   </project>
+  <project key="-1474622026">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="EventMain.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014/04/01 11:18:24.000</styleCop>
-      <settingsFile>2015/06/19 15:55:35.758</settingsFile>
+      <settingsFile>2015/08/12 11:11:34.322</settingsFile>
       <sourceFile>2015/06/19 16:21:24.361</sourceFile>
       <parser>2014/04/01 11:18:24.000</parser>
       <StyleCop.CSharp.DocumentationRules>2014/04/01 11:18:24.000</StyleCop.CSharp.DocumentationRules>
@@ -541,7 +544,7 @@
   <sourcecode name="EventsCore.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014/04/01 11:18:24.000</styleCop>
-      <settingsFile>2015/06/19 15:55:35.758</settingsFile>
+      <settingsFile>2015/08/12 11:11:34.322</settingsFile>
       <sourceFile>2015/06/19 16:22:12.209</sourceFile>
       <parser>2014/04/01 11:18:24.000</parser>
       <StyleCop.CSharp.DocumentationRules>2014/04/01 11:18:24.000</StyleCop.CSharp.DocumentationRules>
@@ -564,7 +567,7 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014/04/01 11:18:24.000</styleCop>
-      <settingsFile>2015/06/19 15:55:35.758</settingsFile>
+      <settingsFile>2015/08/12 11:11:34.322</settingsFile>
       <sourceFile>2015/06/19 16:20:33.137</sourceFile>
       <parser>2014/04/01 11:18:24.000</parser>
       <StyleCop.CSharp.DocumentationRules>2014/04/01 11:18:24.000</StyleCop.CSharp.DocumentationRules>

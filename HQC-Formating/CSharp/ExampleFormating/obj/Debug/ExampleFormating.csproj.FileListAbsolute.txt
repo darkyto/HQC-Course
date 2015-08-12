@@ -17,3 +17,6 @@ D:\TELERIK\KPK\CSharp\example_formating\ExampleFormating\obj\Debug\ExampleFormat
 D:\TELERIK\KPK\CSharp\KPK_home001_Formating\CSharp\example_formating\ExampleFormating\bin\Debug\ExampleFormating.exe.config
 D:\TELERIK\KPK\CSharp\KPK_home001_Formating\CSharp\example_formating\ExampleFormating\obj\Debug\ExampleFormating.exe
 D:\TELERIK\KPK\CSharp\KPK_home001_Formating\CSharp\example_formating\ExampleFormating\obj\Debug\ExampleFormating.pdb
+D:\TELERIK\KPK\CSharp\KPK-Formating\CSharp\ExampleFormating\bin\Debug\ExampleFormating.exe.config
+D:\TELERIK\KPK\CSharp\KPK-Formating\CSharp\ExampleFormating\obj\Debug\ExampleFormating.exe
+D:\TELERIK\KPK\CSharp\KPK-Formating\CSharp\ExampleFormating\obj\Debug\ExampleFormating.pdb
