@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-DefensiveProgramming\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\TELERIK\KPK\CSharp\KPK-DefensiveProgramming\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\TELERIK\KPK\CSharp\KPK-DefensiveProgramming\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-DefensiveProgramming\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\TELERIK\KPK\CSharp\KPK-DefensiveProgramming\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
