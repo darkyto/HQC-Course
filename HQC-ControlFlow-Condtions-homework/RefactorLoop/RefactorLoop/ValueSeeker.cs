@@ -6,6 +6,7 @@
     public class ValueSeeker
     {
         public const int MaxTries = 100;
+
         public static void RandomComparer(int wantedValue)
         {
             bool isFound = false;
@@ -20,6 +21,7 @@
                 {
                     Console.WriteLine("\n");
                 }
+
                 Console.Write(randomValuesList[i] + " ");
 
                 if (randomValuesList[i] == wantedValue)
@@ -28,6 +30,7 @@
                     break;
                 }
             }
+
             if (isFound)
             {
                 Console.WriteLine("\n");

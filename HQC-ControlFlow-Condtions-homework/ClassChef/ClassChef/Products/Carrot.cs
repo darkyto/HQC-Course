@@ -1,4 +1,4 @@
-﻿namespace ClassChef
+﻿namespace CookingApp
 {
     using System;
 

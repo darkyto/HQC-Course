@@ -1,4 +1,4 @@
-﻿namespace ClassChef
+﻿namespace CookingApp
 {
     using System;
     using System.Collections.Generic;
@@ -7,6 +7,7 @@
     {
         public const int WidthCentimetres = 25;
         public const int MaxWaterMililitres = 800;
+
         public Bowl()
         {
             this.Diameter = WidthCentimetres;
@@ -15,7 +16,9 @@
         }
 
         public int Diameter { get; set; }
+
         public int MililitresSize { get; set; }
+
         public List<Vegetable> Vegetables { get; private set; }
 
         public void Add(Vegetable vegetable) 

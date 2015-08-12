@@ -7,8 +7,8 @@
     <ProjectGuid>{EA457764-78F9-412C-8A6C-B1BF1AB63092}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassChef</RootNamespace>
-    <AssemblyName>ClassChef</AssemblyName>
+    <RootNamespace>CookingApp</RootNamespace>
+    <AssemblyName>CookingApp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

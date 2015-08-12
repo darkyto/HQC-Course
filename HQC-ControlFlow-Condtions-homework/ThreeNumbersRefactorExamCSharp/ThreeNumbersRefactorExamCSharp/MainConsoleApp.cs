@@ -14,9 +14,9 @@
 
             Console.WriteLine(result[0]);
             Console.WriteLine(result[1]);
-            Console.WriteLine("{0:F2}",result[2]);
-           
+            Console.WriteLine("{0:F2}", result[2]);     
         }
+
         public static decimal[] GenerateMinMaxAverage(decimal a, decimal b, decimal c)
         {
             decimal[] answerArray = new decimal[3];

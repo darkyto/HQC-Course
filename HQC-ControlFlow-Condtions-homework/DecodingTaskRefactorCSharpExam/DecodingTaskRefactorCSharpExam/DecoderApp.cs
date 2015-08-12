@@ -60,6 +60,7 @@
                         Console.WriteLine("{0}", charResult);
                     }
                 }
+
                 if (inputText[i] == EndCharacter)
                 {
                     break;

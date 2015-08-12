@@ -10,8 +10,7 @@
             int salt = int.Parse(Console.ReadLine());
             string inputText = Console.ReadLine();
 
-            Decoder(salt, inputText);
+            DecoderApp.Decoder(salt, inputText);
         }     
     }
 }
-

@@ -1,4 +1,4 @@
-﻿namespace ClassChef
+﻿namespace CookingApp
 {
     using System;
 
@@ -6,9 +6,9 @@
     {
         public void Cook()
         {
-            Bowl bowl = GetBowl();
-            Potato potato = GetPotato();
-            Carrot carrot = GetCarrot();
+            Bowl bowl = this.GetBowl();
+            Potato potato = this.GetPotato();
+            Carrot carrot = this.GetCarrot();
 
             this.Peel(potato);
             this.Peel(carrot);

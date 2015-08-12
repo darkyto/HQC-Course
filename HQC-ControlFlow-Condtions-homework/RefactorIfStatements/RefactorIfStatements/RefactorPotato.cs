@@ -6,13 +6,13 @@
     {
         public static void Main()
         { 
-            var potato = new Object();
+            var potato = new object();
 
             bool potatoHasBeenPeeled = false;
             bool potatoIsRotten = false;
             
             if (potato != null)
-	        {
+            {
                 if (potatoHasBeenPeeled && !potatoIsRotten)
                 {
                     Cook(potato);
@@ -21,9 +21,10 @@
                 {
                     throw new Exception("Bad potato!");
                 }
-	        }
+            }
         }
-        public static void Cook(Object vegetable) 
+
+        public static void Cook(object vegetable) 
         {
             Console.WriteLine("Cookiiiing.. done!");
         }
