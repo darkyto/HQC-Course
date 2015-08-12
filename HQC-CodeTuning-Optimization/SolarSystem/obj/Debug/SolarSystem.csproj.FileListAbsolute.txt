@@ -1,0 +1,12 @@
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\bin\Debug\SolarSystem.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\bin\Debug\SolarSystem.pdb
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\MainWindow.g.cs
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\App.g.cs
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\MainWindow.baml
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\SolarSystem.g.resources
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\SolarSystem.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\SolarSystem\obj\Debug\SolarSystem.pdb

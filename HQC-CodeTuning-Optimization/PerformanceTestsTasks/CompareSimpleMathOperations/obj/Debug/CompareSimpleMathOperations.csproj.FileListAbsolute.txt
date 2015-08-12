@@ -1,0 +1,4 @@
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareSimpleMathOperations\bin\Debug\CompareSimpleMathOperations.pdb
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareSimpleMathOperations\obj\Debug\CompareSimpleMathOperations.pdb
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareSimpleMathOperations\bin\Debug\CompareSimpleMathOperations.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareSimpleMathOperations\obj\Debug\CompareSimpleMathOperations.exe

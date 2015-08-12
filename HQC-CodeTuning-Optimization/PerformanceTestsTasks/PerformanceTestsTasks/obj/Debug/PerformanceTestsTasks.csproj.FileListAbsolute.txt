@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\PerformanceTestsTasks\bin\Debug\PerformanceTestsTasks.exe.config
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\PerformanceTestsTasks\bin\Debug\PerformanceTestsTasks.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\PerformanceTestsTasks\bin\Debug\PerformanceTestsTasks.pdb
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\PerformanceTestsTasks\obj\Debug\PerformanceTestsTasks.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\PerformanceTestsTasks\obj\Debug\PerformanceTestsTasks.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\PerformanceTestsTasks\obj\Debug\PerformanceTestsTasks.pdb

@@ -1,0 +1,8 @@
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe.config
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.pdb
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\bin\Debug\CompareSimpleMathOperations.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\bin\Debug\CompareSimpleMathOperations.pdb
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.exe
+D:\TELERIK\KPK\CSharp\KPK-FineTuning-Optimizations\PerformanceTestsTasks\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.pdb
