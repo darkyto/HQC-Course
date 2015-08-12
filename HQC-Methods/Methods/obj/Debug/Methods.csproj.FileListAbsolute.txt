@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-Methods\Methods\bin\Debug\Methods.exe
+D:\TELERIK\KPK\CSharp\KPK-Methods\Methods\bin\Debug\Methods.pdb
+D:\TELERIK\KPK\CSharp\KPK-Methods\Methods\obj\Debug\Methods.exe
+D:\TELERIK\KPK\CSharp\KPK-Methods\Methods\obj\Debug\Methods.pdb
