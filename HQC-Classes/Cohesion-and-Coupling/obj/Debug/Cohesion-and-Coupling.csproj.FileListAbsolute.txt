@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\CSharp\KPK-HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\TELERIK\KPK\CSharp\KPK-HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\TELERIK\KPK\CSharp\KPK-HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\CSharp\KPK-HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\TELERIK\KPK\CSharp\KPK-HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
